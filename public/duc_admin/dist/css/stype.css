@@ -1,0 +1,39 @@
+.myimg{
+	width: 80px;
+	height: 130px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+
+}
+.myimg1{
+	width: 90px;
+	height: 150px;
+	display: block;
+	margin-left: 0px;
+	margin-right: auto;
+	
+}
+.myform{	
+	text-align: center;
+	vertical-align: middle!important;
+}
+.mybt{
+	float: right;
+}
+.myimg2{
+	width: 130px;
+	height: 80px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+
+}
+.myimg4{
+	width: 150px;
+	height: 90px;
+	display: block;
+	margin-left: 0px;
+	margin-right: auto;
+	
+}
